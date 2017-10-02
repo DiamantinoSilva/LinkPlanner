@@ -1,4 +1,15 @@
 ######################
+# GIT Files
+######################
+*.pdf~*
+
+######################
+# PDF Files
+######################
+
+doc/tex/main_netxpto.pdf
+
+######################
 # Visual C++
 ######################
 *.obj
@@ -8,6 +19,23 @@
 *.ilk
 *.pdb
 *.tlog
+*.VC.opendb
+*.VC.db
+*.idb
+*.lastbuildstate
+*.user
+*.json
+*.sqlite
+*.ipch
+
+######################
+# Winedt
+######################
+*.synctex
+*.log
+*.ilg
+*.gz
+*.toc
 
 ######################
 # Matlab
@@ -63,7 +91,11 @@ Network Trash Folder
 Temporary Items
 .apdisk
 *.obj
-*.obj
 *.exe
 *.mat
 *.mat
+*.sgn
+*.sgn
+*.aux
+*.out
+*.aux
